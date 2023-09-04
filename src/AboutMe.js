@@ -1,11 +1,11 @@
 import React from 'react'
-import { Navbar } from './Home'
+import Navbar from "./Navbar";
 
 const AboutMe = () => {
   return (
     <>
-      {/* < Navbar /> */}
-      <h1>About Me Page</h1>
+      <Navbar /> 
+      <h1>AboutMe Page</h1>
     </>
   )
 }

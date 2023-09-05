@@ -7,7 +7,6 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 import Navbar from "./Navbar";
 
-
 const Home = () => {
 	return (
 		<>
@@ -16,10 +15,6 @@ const Home = () => {
 		</>
 	);
 };
-
-
-
-
 
 const HomeContent = () => {
 	return (
@@ -91,8 +86,24 @@ const HomeContent = () => {
 							</a>
 						</div>
 					</div>
-					<button className="contact-me-button">Contact Me</button>
-					<button className="resume-button">Resume</button>
+					<button className="contact-me-button">
+						<a
+							href="/contact"
+							style={{ textDecoration: "none", color: "white" }}
+							target="_blank"
+						>
+							Contact Me
+						</a>
+					</button>
+					<button className="resume-button">
+						<a
+							href="https://drive.google.com/file/d/1CEb0nQboVO8qpGtr-fxTTrVGqvjT2fi2/view?usp=sharing"
+							style={{ textDecoration: "none", color: "#cd3636" }}
+							target="_blank"
+						>
+							Resume
+						</a>
+					</button>
 				</div>
 				<div className="coding-vector-image-container">
 					<img

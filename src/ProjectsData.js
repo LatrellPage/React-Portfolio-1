@@ -28,7 +28,7 @@ const ProjectsData = [
 		title: "Employee DBS",
 		description: "Track your Employees.",
 		deployedLink: '',
-		githubLink: "https://github.com/AnferneePage/Employee-Trackery",
+		githubLink: "https://github.com/AnferneePage/Employee-Tracker",
 		imgSrc: "https://www.dbta.com/Images/Default.aspx?ImageID=19538",
 	},
 	{

@@ -34,7 +34,7 @@ const HomeContent = () => {
 					</p>
 					<div className="socials-container">
 						<a
-							href="https://github.com/AnferneePage"
+							href="https://github.com/LatrellPage"
 							target="_blank"
 						>
 							<FontAwesomeIcon

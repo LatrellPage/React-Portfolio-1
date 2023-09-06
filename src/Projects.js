@@ -69,7 +69,7 @@ const ViewAllProjects = () => {
 			/>
 			<a
 				id="githubLink"
-				href="https://github.com/AnferneePage"
+				href="https://github.com/LatrellPage?tab=repositories"
 				target="_blank"
 			>
 				View all projects

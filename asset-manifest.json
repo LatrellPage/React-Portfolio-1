@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/React-Portfolio-1/static/css/main.20a25da4.css",
-    "main.js": "/React-Portfolio-1/static/js/main.fbbda02f.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/React-Portfolio-1/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/React-Portfolio-1/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/React-Portfolio-1/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/React-Portfolio-1/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/React-Portfolio-1/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/React-Portfolio-1/index.html",
-    "main.20a25da4.css.map": "/React-Portfolio-1/static/css/main.20a25da4.css.map",
-    "main.fbbda02f.js.map": "/React-Portfolio-1/static/js/main.fbbda02f.js.map"
+    "main.css": "/static/css/main.461199a5.css",
+    "main.js": "/static/js/main.294e86d4.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/index.html",
+    "main.461199a5.css.map": "/static/css/main.461199a5.css.map",
+    "main.294e86d4.js.map": "/static/js/main.294e86d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.20a25da4.css",
-    "static/js/main.fbbda02f.js"
+    "static/css/main.461199a5.css",
+    "static/js/main.294e86d4.js"
   ]
 }
